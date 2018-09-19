@@ -1,1 +1,1 @@
-# k8s-hello-world-app
+# k8s-jenkins-java-app
