@@ -19,6 +19,6 @@ public class RestController {
 
     @GetMapping(value = "/get", produces = MediaType.TEXT_PLAIN_VALUE)
     public String jenkins(){
-        return "Hello World app is running properly.. \nThe app version is: " + version;
+        return "Hello World app is running properly.. \nThe app version is: " + version + "\n";
     }
 }
